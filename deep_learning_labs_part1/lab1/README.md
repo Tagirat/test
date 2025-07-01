@@ -1,0 +1,2 @@
+В рамках лабораторной работы необходимо ознакомиться с обучающими блокнотами и самостоятельно выполнить задание, заполнив пропуски в коде.
+В качестве задания взяты материалы курса Calculus for Machine Learning and Data Science из специализации Mathematics for Machine Learning and Data Science от DeepLearning.AI на платформе Coursera.
